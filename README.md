@@ -1,4 +1,4 @@
-# SE1Group4
+# RESTFUL API for online bookstore
 
 Main repository for CEN4010 Summer B Group 4 project.
 
